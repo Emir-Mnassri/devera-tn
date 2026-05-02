@@ -1,0 +1,58 @@
+{
+  "site": {
+    "title": "U & E Digital Services",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.svg",
+    "logo_width": "240",
+    "logo_height": "34",
+    "logo_text": "U & E Digital Services"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "https://formspree.io/f/your-id-here",
+    "footer_content": "The premier online manifesto for elite digital presence. Specifically focused on building high-performance e-commerce platforms and securing brand authority for Tunisian businesses.",
+    "copyright": "© 2026 U & E Digital Services. All rights reserved."
+  },
+
+  "contact_info": {
+    "phone": "+216 23 073 255",
+    "email": "emirmnassri015@gmail.com",
+    "location": "Sidi Bouzid, Tunisia"
+  },
+
+  "nav_button": {
+    "enable": false,
+    "label": "Get a Quote",
+    "link": "/contact"
+  },
+
+  "metadata": {
+    "meta_author": "U & E Digital Services",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Elite e-commerce development and digital services in Tunisia. We build successful businesses, not just websites. Specializing in high-performance web solutions and brand verification."
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "Ready to Architect Your Digital Future?",
+    "content": "Stop settling for a generic website. Let's build a high-performance e-commerce engine that actually converts visitors into customers.",
+    "button": {
+      "label": "Start Your Project",
+      "link": "/contact"
+    }
+  },
+
+  "disqus": {
+    "enable": false,
+    "shortname": "",
+    "settings": {}
+  }
+}

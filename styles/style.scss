@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @import "base";
+}
+
+@layer components {
+  @import "components";
+  @import "navigation";
+  @import "buttons";
+}
+
+@layer utilities {
+  @import "utilities";
+}
+
+@layer swiper {
+  @import '../node_modules/swiper/swiper.scss';
+  @import 'swiper/scss/pagination';
+  @import './swiper.scss';
+}
+
+// Target the section that contains the word "pricing"
+section[id*="pricing"], 
+.section-pricing,
+.pricing {
+  
+  // This targets the actual card boxes
+  .card, 
+  div[class*="bg-theme-light"], 
+  div[class*="rounded-xl"] {
+    background-color: #1e293b !important; // Deep Navy
+    border: 1px solid #334155 !important; // Slate Border
+    color: #f8fafc !important;
+    border-radius: 12px !important;
+    transition: all 0.3s ease;
+
+    &:hover {
+      border-color: #3b82f6 !important; // Royal Blue Glow
+      transform: translateY(-5px);
+    }
+
+    // Fix the text and price colors inside
+    h3, .h3, .price, span, li, p {
+      color: #f8fafc !important;
+    }
+
+    // Make the checkmarks Royal Blue
+    svg {
+      fill: #3b82f6 !important;
+      color: #3b82f6 !important;
+    }
+    
+    // Make the buttons corporate
+    .btn, button, a[class*="btn"] {
+      background-color: #3b82f6 !important;
+      border-radius: 6px !important;
+      color: #ffffff !important;
+    }
+  }
+}
