@@ -54,7 +54,7 @@ const Header = () => {
           <div className="order-0">
             <Link href="/" className="navbar-brand flex items-center">
               <span className="h3 font-bold mb-0" style={{ color: "#f8fafc", letterSpacing: "-0.5px" }}>
-                U&E <span className="text-primary">Digital Services</span>
+                Dev <span className="text-primary">Era TN</span>
               </span>
             </Link>
           </div>
