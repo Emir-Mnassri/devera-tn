@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "Devera | High-Performance E-Commerce & " </br> Web Development in Tunisia." 
+  title: "Devera High-Performance E-Commerce & </br> Web Development in Tunisia." 
 
 ##brands
 brands:
