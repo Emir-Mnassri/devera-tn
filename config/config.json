@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "U & E Digital Services",
+    "title": "DevEra | Web Developer Tunisia | Développeur Web Tunisie",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.svg",
+    "favicon": "/images/favicon.ico",
+    "logo": "/images/logo.png",
     "logo_width": "240",
     "logo_height": "34",
-    "logo_text": "U & E Digital Services"
+    "logo_text": "DevEra"
   },
 
   "settings": {
@@ -18,8 +18,8 @@
   "params": {
     "tag_manager_id": "",
     "contact_form_action": "https://formspree.io/f/your-id-here",
-    "footer_content": "The premier online manifesto for elite digital presence. Specifically focused on building high-performance e-commerce platforms and securing brand authority for Tunisian businesses.",
-    "copyright": "© 2026 U & E Digital Services. All rights reserved."
+    "footer_content": "Premium full-stack web development & high-performance e-commerce solutions in Tunisia. Création de sites web professionnels et plateformes e-commerce optimisées.",
+    "copyright": "© 2026 DevEra. All rights reserved."
   },
 
   "contact_info": {
@@ -35,9 +35,9 @@
   },
 
   "metadata": {
-    "meta_author": "U & E Digital Services",
+    "meta_author": "DevEra",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Elite e-commerce development and digital services in Tunisia. We build successful businesses, not just websites. Specializing in high-performance web solutions and brand verification."
+    "meta_description": "Web Developer Tunisia & Développeur Web Tunisie. DevEra builds premium full-stack web applications & high-performance e-commerce solutions. Création site e-commerce."
   },
 
   "call_to_action": {

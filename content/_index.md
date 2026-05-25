@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "U & E Digital Services is the most reliable </br> web branding" 
+  title: "Devera | High-Performance E-Commerce & " </br> Web Development in Tunisia." 
 
 ##brands
 brands:
@@ -88,23 +88,11 @@ pricing:
   title: "Service Packets"
   description: "Professional web and marketing solutions tailored to your business growth."
   packets:
-    - name: "Starter Landing"
-      price: "350 TND"
-      description: "Perfect for a professional online presence without complex data."
-      features: ["Single Page Design", "No Database", "Mobile Responsive", "Contact Form"]
     - name: "Full-Stack Pro"
-      price: "950 TND"
+      price: "1500 TND"
       description: "A dynamic solution with a database for managing content or users."
       features: ["Multi-page Website", "Database Integration", "Admin Dashboard", "User Authentication"]
-    - name: "Landing + Growth"
-      price: "550 TND"
-      description: "Your landing page plus a professional ad campaign setup."
-      features: ["Starter Landing Features", "Meta Ads Setup", "Keyword Research", "1 Month Monitoring"]
     - name: "Elite Full-Stack + Ads"
-      price: "1,400 TND"
+      price: "2000 TND"
       description: "The complete package: a high-end site and aggressive marketing."
       features: ["Full-Stack Pro Features", "Sponsoring Strategy", "SEO Optimization", "Conversion Tracking"]
-    - name: "Verification Plus"
-      price: "150 TND"
-      description: "Assistance with social media professional presence and verification."
-      features: ["Profile Optimization", "Documentation Audit", "Submission Support", "Brand Safety Check"]
